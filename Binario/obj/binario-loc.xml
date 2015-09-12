@@ -1,0 +1,1280 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_file>
+    <file_marker column=" 1" line=" 95" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 95" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 95" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 45" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 45" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 45" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 96" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 95" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 45" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 96" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 45" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 45" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 45" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 27" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 45" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 45" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 44" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 40" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 45" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 35" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 45" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 77" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 44" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 49" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 63" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 49" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 63" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 63" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 63" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 69" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 58" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 67" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 74" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 69" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 77" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 74" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 76" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 75" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 67" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 69" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 69" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 69" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 95" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 9" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 19" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 70" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 77" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 95" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 77" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 95" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 95" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 95" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 95" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 95" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 95" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 96" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 95" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 95" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 95" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 17" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 95" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 95" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 19" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 16" line=" 5" >
+      <vfs_project>C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file>C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 86">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 44">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 44">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 45">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 54">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 53">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 54">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 57">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 54">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 53">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 52">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 44">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 34">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 44">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 37">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 43">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 57">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 53">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 60">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 61">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 60">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 60">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 75">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 75">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 75">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 60">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 53">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 75">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 75">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 75">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 75">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 10">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 75">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 75">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 60">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 64">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 68">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 66">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 66">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 66">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 67">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 74">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 74">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 70">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 69">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 68">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 69">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 82">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 79">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 68">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 81">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 69">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 81">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 82">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 84">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 78">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 66">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 16">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 66">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 13">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 86">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 85">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 84">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 16">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 62">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 69">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 4" line=" 9">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker column=" 39" line=" 37">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 29">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 7">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 29">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 11">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 7">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 29">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 32">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 74" line=" 29">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 27">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 74" line=" 29">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 32">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 74" line=" 29">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 1">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 74" line=" 29">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 6">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 74" line=" 29">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 35">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 39">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 36">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 15" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 23">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 8">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 5">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 21">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 14">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 24" line=" 21">
+      <vfs_project >C:\Users\MARGOT\Documents\Ada Project\Binario\binario.gpr</vfs_project>
+      <vfs_file >C:\Users\MARGOT\Documents\Ada Project\Binario\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
